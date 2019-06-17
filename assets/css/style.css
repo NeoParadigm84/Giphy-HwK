@@ -1,0 +1,38 @@
+body {
+  background: url("../images/Graffi1.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: black;
+  font-family: fantasy 
+}
+ {
+  box-sizing: border-box;
+}
+img {
+  height: 150px;
+  width: 150px;
+}
+.btn {
+  /* button spacing*/
+  margin: 3px;
+  background-color: #999999;
+  border-color: #fff;
+}
+.gifDiv {
+  /* images go in one line*/
+  float: left;
+  margin: 3px;
+}
+.container {
+  background-color: green;
+  padding: 20px;
+  }
+.jumbotron {
+  background-color: inherit;
+}
+.jumbotron .h1,
+.jumbotron h1 {
+  text-align: center;
+}
+
+
