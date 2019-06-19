@@ -9,3 +9,4 @@ All GIFs are accompanied by a rating.
 Users can use the search box to find more options on their own. 
 A clear all button is available should the list get too overwhelming. 
 This page was constructed using HTML, Giphy API, CSS, Javascript, and Jquery
+https://neoparadigm84.github.io/Giphy-HwK/
